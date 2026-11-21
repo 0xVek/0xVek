@@ -20,5 +20,3 @@ Hey, I'm 0xvek 👋<br><br>Student Developer | Builder from India 🇮🇳<br><b
 
 ---
 [![](https://komarev.com/ghpvc/?username=0xvek&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
