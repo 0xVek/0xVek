@@ -1,57 +1,24 @@
-# hey, I'm Vivek — online as **0xvek**
+# 💫 About Me:
+hey, I'm Vivek — online as 0xvek<br><br>Student builder from India. I turn rough ideas into tools people can actually open and use.<br><br>I build bots, browser extensions, web tools, Android apps, and AI-powered experiments.<br><br>I enjoy figuring things out, working with limited resources, and turning ideas into working software.<br><br>«Not here to collect tutorials. Here to ship.»<br><br>---<br><br>what I build<br><br>- Telegram bots — automation, integrations, and useful everyday workflows<br>- Browser extensions — focused tools that solve specific problems<br>- Web tools — lightweight applications built with Python and JavaScript<br>- Android apps — practical mobile applications with Kotlin<br>- AI workspaces — multi-model chat, image generation, and productivity tools<br>- Developer experiments — testing what's possible with different tools, platforms, and hardware<br><br>---<br><br>selected work<br><br>Project| What it does| Link<br>Site Dumper| Chrome extension that force-loads lazy assets and exports deployable website ZIPs for Next.js, Nuxt, SvelteKit, Vite, and static sites.| "Repository" (https://github.com/0xVek/site-dumper)<br>AICenter| A unified chat workspace connecting Gemini, OpenRouter, Groq, and image generation.| "Live Demo" (https://iotaweb.wisp.uno)<br><br>More projects and experiments will be added as they become ready to share.<br><br>---<br><br>experiments & things I'm exploring<br><br>Android as a development workstation<br><br>One of my ongoing experiments is running a surprisingly complete development workflow on an Android phone.<br><br>My setup includes:<br><br>- Termux as the Android terminal environment<br>- Debian 13 ARM64 through PRoot<br>- Official Codex CLI and Antigravity CLI running inside the Linux environment<br>- Node.js, Python, Git, and FFmpeg<br>- Remotion for programmatic video production<br>- Android Chrome and the Web Renderer for video rendering<br><br>Hardware used: Redmi Note 10T 5G · MediaTek Dimensity 700 · 4GB physical RAM · Android 13<br><br>I successfully rendered a 33-second, 1080 × 1920, 60 FPS H.264/AAC video using the phone's browser-based rendering workflow.<br><br>This is an experimental, device-specific setup — not an official Android port of Codex or Antigravity. Some workflows are limited by Android background-process management and available memory.<br><br>I'm also exploring whether a shared Linux VPS can handle heavier development and media-processing workloads.<br><br>The goal is to document what actually works, including limitations and failures.<br><br>---<br><br>stack I actually open<br><br>"Python" · "JavaScript" · "Kotlin" · "HTML" · "CSS" · "Flask" · "Node.js" · "Git"<br><br>Tools & platforms<br><br>"Termux" · "Linux" · "Debian" · "Codex CLI" · "Antigravity CLI" · "Remotion" · "FFmpeg" · "Chrome Extensions" · "AI APIs"<br><br>---<br><br>how I like to build<br><br>- Build something useful before overengineering it.<br>- Prefer working implementations over impressive-looking demos.<br>- Test on real devices, not just ideal development environments.<br>- Be honest about limitations and unfinished work.<br>- Learn by experimenting, debugging, and shipping.<br><br>---<br><br>currently<br><br>- Building and improving small AI-powered tools.<br>- Exploring Android-based development workflows.<br>- Experimenting with programmatic video production.<br>- Learning how to make useful software with limited hardware and resources.<br><br>---<br><br>GitHub stats<br><br><p align="center"><br>  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xVek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="0xVek GitHub stats" /><br>  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xVek&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /><br></p>---<br><br>find me<br><br>- Portfolio → "0xvek.wisp.uno" (https://0xvek.wisp.uno)<br>- GitHub → "github.com/0xVek" (https://github.com/0xVek)<br>- AICenter → "iotaweb.wisp.uno" (https://iotaweb.wisp.uno)<br><br>---<br><br><p align="center"><br>  <i>Building, breaking, learning, and shipping — one project at a time.</i><br></p>
 
-Student builder from India. I turn rough ideas into tools people can actually open and use.
 
-Bots · browser tools · web tools · Android · small AI products.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xvek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:its0xvek@gmail.com) 
 
-Not here to collect tutorials. Here to ship.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=0xvek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=0xvek&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=0xvek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=0xvek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### what I build
-
-- **Telegram bots** — automation & integrations people use daily  
-- **Browser extensions** — one-job tools that save time  
-- **Web tools** — small, fast interfaces (Python / JS)  
-- **Android apps** — practical mobile builds (Kotlin)  
-- **AI workspaces** — multi-model chat, image gen, fewer tabs  
-
----
-
-### selected work
-
-| Project | What it does | Link |
-|--------|----------------|------|
-| **Site Dumper** | Chrome extension — force-loads lazy assets, exports a deployable ZIP (Next.js, Nuxt, SvelteKit, Vite, static) | [repo](https://github.com/0xVek/site-dumper) |
-| **AICenter** | One chat workspace across Gemini, OpenRouter, Groq + image gen | [live](https://iotaweb.wisp.uno) |
-
-Portfolio → **[0xvek.wisp.uno](https://0xvek.wisp.uno)**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=0xvek&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=0xvek&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### stack I actually open
-
-`Python` · `JavaScript` · `Kotlin` · `HTML/CSS` · `Flask` · `Telegram APIs` · `Chrome Extensions` · `AI APIs` · `Git`
-
----
-
-### github stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xVek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="0xVek GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xVek&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-### currently
-
-Shipping in public. Polishing tools. Keeping the portfolio honest about what actually works.
-
----
-
-### find me
-
-- **Portfolio** → [0xvek.wisp.uno](https://0xvek.wisp.uno)  
-- **GitHub** → [github.com/0xVek](https://github.com/0xVek)  
-- **AICenter** → [iotaweb.wisp.uno](https://iotaweb.wisp.uno)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
